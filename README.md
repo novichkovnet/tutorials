@@ -17,3 +17,7 @@
 ## Статьи
 
 [Визуальные коммуникации](https://novichkovnet.github.io/text/2018/05/17/communication-tech-trends.html)
+
+## Видео лекции
+
+[Курс по инфографике записанный в 2019 году](https://www.youtube.com/playlist?list=PLWRngzwNyOI6OtmEuveDE9g-Mz9tpv_XM)
