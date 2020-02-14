@@ -1,6 +1,6 @@
 # Инфографика для людей!
 
-## Инструкции:
+## Инструкции
 
 [Бог играет в кости. Генерация случайных точек в двухмерном пространстве](https://github.com/novichkovnet/codart/blob/master/Random_Dots/Random_01.ipynb)
 
