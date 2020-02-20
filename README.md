@@ -8,7 +8,7 @@
 
 ## Инструкции
 
-[Конфетти](https://github.com/novichkovnet/codart/blob/master/Random_Dots/Random_03.ipynb)
+[Автоматическое конфетти](https://github.com/novichkovnet/codart/blob/master/Random_Dots/Random_03.ipynb)
 
 [Мыльные пузыри](https://github.com/novichkovnet/codart/blob/master/Random_Dots/Random_02.ipynb)
 
