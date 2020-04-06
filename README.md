@@ -10,6 +10,8 @@
 
 ## Инструкции
 
+[Простейший график Plotly](https://github.com/novichkovnet/tutorials/blob/master/covid_stat_plotly.ipynb)
+
 [Автоматическое конфетти](https://github.com/novichkovnet/codart/blob/master/Random_Dots/Random_03.ipynb)
 
 [Мыльные пузыри](https://github.com/novichkovnet/codart/blob/master/Random_Dots/Random_02.ipynb)
