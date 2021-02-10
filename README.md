@@ -7,7 +7,8 @@
 ## Архив лекций
 
 [Курс по инфографике записанный в 2019 году](https://www.youtube.com/playlist?list=PLWRngzwNyOI6OtmEuveDE9g-Mz9tpv_XM)
-[Материалы проектного семинара «Визуализация и презентация данных» НИУ ВШЭ](https://www.youtube.com/playlist?list=PLWRngzwNyOI6OtmEuveDE9g-Mz9tpv_XM) 
+
+[Материалы проектного семинара «Визуализация и презентация данных» НИУ ВШЭ 2020-го года](https://youtube.com/playlist?list=PLWRngzwNyOI4PrgYsrgGg4rQeSVBy1rCF) 
 
 ## Инструкции
 
